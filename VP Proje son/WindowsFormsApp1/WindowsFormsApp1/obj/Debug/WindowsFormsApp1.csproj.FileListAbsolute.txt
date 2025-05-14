@@ -1,0 +1,202 @@
+C:\Users\EMİNE GELİR\Desktop\VP Proje\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\EMİNE GELİR\Desktop\VP Proje\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\EMİNE GELİR\Desktop\VP Proje\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\EMİNE GELİR\Desktop\VP Proje\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ComponentFactory.Krypton.Docking.dll
+C:\Users\EMİNE GELİR\Desktop\VP Proje\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+C:\Users\EMİNE GELİR\Desktop\VP Proje\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+C:\Users\EMİNE GELİR\Desktop\VP Proje\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\EMİNE GELİR\Desktop\VP Proje\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+C:\Users\EMİNE GELİR\Desktop\VP Proje\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\EMİNE GELİR\Desktop\VP Proje\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\EMİNE GELİR\Desktop\VP Proje\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\EMİNE GELİR\Desktop\VP Proje\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\EMİNE GELİR\Desktop\VP Proje\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\EMİNE GELİR\Desktop\VP Proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\EMİNE GELİR\Desktop\VP Proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Checkin.resources
+C:\Users\EMİNE GELİR\Desktop\VP Proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Flying.resources
+C:\Users\EMİNE GELİR\Desktop\VP Proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Users\EMİNE GELİR\Desktop\VP Proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainPage.resources
+C:\Users\EMİNE GELİR\Desktop\VP Proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Payment.resources
+C:\Users\EMİNE GELİR\Desktop\VP Proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\EMİNE GELİR\Desktop\VP Proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Reservation.resources
+C:\Users\EMİNE GELİR\Desktop\VP Proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Staff.resources
+C:\Users\EMİNE GELİR\Desktop\VP Proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\EMİNE GELİR\Desktop\VP Proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\EMİNE GELİR\Desktop\VP Proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\EMİNE GELİR\Desktop\VP Proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\EMİNE GELİR\Desktop\VP Proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\EMİNE GELİR\Desktop\VP Proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SearchCityOrAirport.resources
+C:\Users\EMİNE GELİR\Desktop\VP Proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TicketList.resources
+C:\.net core\VP Proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\.net core\VP Proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\.net core\VP Proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CheckinForm.resources
+C:\.net core\VP Proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Flying.resources
+C:\.net core\VP Proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\.net core\VP Proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainPage.resources
+C:\.net core\VP Proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Payment.resources
+C:\.net core\VP Proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\.net core\VP Proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Reservation.resources
+C:\.net core\VP Proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SearchCityOrAirport.resources
+C:\.net core\VP Proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Staff.resources
+C:\.net core\VP Proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TicketList.resources
+C:\.net core\VP Proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\.net core\VP Proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\.net core\VP Proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\.net core\VP Proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\.net core\VP Proje\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\.net core\VP Proje\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\.net core\VP Proje\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\.net core\VP Proje\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\.net core\VP Proje\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\.net core\VP Proje\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\.net core\VP Proje\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\.net core\VP Proje\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\.net core\VP Proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\.net core\VP Proje\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\.net core\VP Proje\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\.net core\VP Proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChooseSeatForm.resources
+C:\Users\EMİNE GELİR\Desktop\VP Proje +\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\EMİNE GELİR\Desktop\VP Proje +\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\EMİNE GELİR\Desktop\VP Proje +\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\EMİNE GELİR\Desktop\VP Proje +\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ComponentFactory.Krypton.Docking.dll
+C:\Users\EMİNE GELİR\Desktop\VP Proje +\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+C:\Users\EMİNE GELİR\Desktop\VP Proje +\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+C:\Users\EMİNE GELİR\Desktop\VP Proje +\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\EMİNE GELİR\Desktop\VP Proje +\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+C:\Users\EMİNE GELİR\Desktop\VP Proje +\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\EMİNE GELİR\Desktop\VP Proje +\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\EMİNE GELİR\Desktop\VP Proje +\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\EMİNE GELİR\Desktop\VP Proje +\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\EMİNE GELİR\Desktop\VP Proje +\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\EMİNE GELİR\Desktop\VP Proje +\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\EMİNE GELİR\Desktop\VP Proje +\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\EMİNE GELİR\Desktop\VP Proje +\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\EMİNE GELİR\Desktop\VP Proje +\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CheckinForm.resources
+C:\Users\EMİNE GELİR\Desktop\VP Proje +\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChooseSeatForm.resources
+C:\Users\EMİNE GELİR\Desktop\VP Proje +\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Flying.resources
+C:\Users\EMİNE GELİR\Desktop\VP Proje +\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Users\EMİNE GELİR\Desktop\VP Proje +\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainPage.resources
+C:\Users\EMİNE GELİR\Desktop\VP Proje +\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Payment.resources
+C:\Users\EMİNE GELİR\Desktop\VP Proje +\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\EMİNE GELİR\Desktop\VP Proje +\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Reservation.resources
+C:\Users\EMİNE GELİR\Desktop\VP Proje +\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SearchCityOrAirport.resources
+C:\Users\EMİNE GELİR\Desktop\VP Proje +\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Staff.resources
+C:\Users\EMİNE GELİR\Desktop\VP Proje +\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TicketList.resources
+C:\Users\EMİNE GELİR\Desktop\VP Proje +\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\EMİNE GELİR\Desktop\VP Proje +\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\EMİNE GELİR\Desktop\VP Proje +\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\EMİNE GELİR\Desktop\VP Proje +\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\EMİNE GELİR\Desktop\VP Proje +\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\EMİNE GELİR\Desktop\VP Proje +\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PayItem.resources
+C:\Users\EMİNE GELİR\Desktop\VP Proje +\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReservationUser.resources
+C:\Users\EMİNE GELİR\Desktop\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\EMİNE GELİR\Desktop\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\EMİNE GELİR\Desktop\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\EMİNE GELİR\Desktop\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ComponentFactory.Krypton.Docking.dll
+C:\Users\EMİNE GELİR\Desktop\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+C:\Users\EMİNE GELİR\Desktop\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+C:\Users\EMİNE GELİR\Desktop\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\EMİNE GELİR\Desktop\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+C:\Users\EMİNE GELİR\Desktop\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\EMİNE GELİR\Desktop\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\EMİNE GELİR\Desktop\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\EMİNE GELİR\Desktop\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\EMİNE GELİR\Desktop\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\EMİNE GELİR\Desktop\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\EMİNE GELİR\Desktop\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\EMİNE GELİR\Desktop\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\EMİNE GELİR\Desktop\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CheckinForm.resources
+C:\Users\EMİNE GELİR\Desktop\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChooseSeatForm.resources
+C:\Users\EMİNE GELİR\Desktop\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Flying.resources
+C:\Users\EMİNE GELİR\Desktop\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Users\EMİNE GELİR\Desktop\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainPage.resources
+C:\Users\EMİNE GELİR\Desktop\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PayItem.resources
+C:\Users\EMİNE GELİR\Desktop\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Payment.resources
+C:\Users\EMİNE GELİR\Desktop\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\EMİNE GELİR\Desktop\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Reservation.resources
+C:\Users\EMİNE GELİR\Desktop\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReservationUser.resources
+C:\Users\EMİNE GELİR\Desktop\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SearchCityOrAirport.resources
+C:\Users\EMİNE GELİR\Desktop\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Staff.resources
+C:\Users\EMİNE GELİR\Desktop\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TicketList.resources
+C:\Users\EMİNE GELİR\Desktop\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\EMİNE GELİR\Desktop\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\EMİNE GELİR\Desktop\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\EMİNE GELİR\Desktop\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\EMİNE GELİR\Desktop\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\.net core\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\.net core\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\.net core\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CheckinForm.resources
+C:\.net core\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChooseSeatForm.resources
+C:\.net core\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Flying.resources
+C:\.net core\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\.net core\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainPage.resources
+C:\.net core\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PayItem.resources
+C:\.net core\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Payment.resources
+C:\.net core\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\.net core\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReservationUser.resources
+C:\.net core\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SearchCityOrAirport.resources
+C:\.net core\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Staff.resources
+C:\.net core\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TicketList.resources
+C:\.net core\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\.net core\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\.net core\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\.net core\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\.net core\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\.net core\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\.net core\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\.net core\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\.net core\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\.net core\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\.net core\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\.net core\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\.net core\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\.net core\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\.net core\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\.net core\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\.net core\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\.net core\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReservationForm.resources
+C:\.net core\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\.net core\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\.net core\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\.net core\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Zeno\Desktop\ENNN SOOOON\DENEME\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Zeno\Desktop\ENNN SOOOON\DENEME\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Zeno\Desktop\ENNN SOOOON\DENEME\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Zeno\Desktop\ENNN SOOOON\DENEME\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\Zeno\Desktop\ENNN SOOOON\DENEME\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Zeno\Desktop\ENNN SOOOON\DENEME\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Zeno\Desktop\ENNN SOOOON\DENEME\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Zeno\Desktop\ENNN SOOOON\DENEME\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\Zeno\Desktop\ENNN SOOOON\DENEME\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\Zeno\Desktop\ENNN SOOOON\DENEME\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\Zeno\Desktop\ENNN SOOOON\DENEME\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\Zeno\Desktop\ENNN SOOOON\DENEME\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\Zeno\Desktop\ENNN SOOOON\DENEME\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\Zeno\Desktop\ENNN SOOOON\DENEME\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Zeno\Desktop\ENNN SOOOON\DENEME\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Zeno\Desktop\ENNN SOOOON\DENEME\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Zeno\Desktop\ENNN SOOOON\DENEME\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Zeno\Desktop\ENNN SOOOON\DENEME\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CheckinForm.resources
+C:\Users\Zeno\Desktop\ENNN SOOOON\DENEME\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChooseSeatForm.resources
+C:\Users\Zeno\Desktop\ENNN SOOOON\DENEME\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Flying.resources
+C:\Users\Zeno\Desktop\ENNN SOOOON\DENEME\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Users\Zeno\Desktop\ENNN SOOOON\DENEME\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainPage.resources
+C:\Users\Zeno\Desktop\ENNN SOOOON\DENEME\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PayItem.resources
+C:\Users\Zeno\Desktop\ENNN SOOOON\DENEME\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Payment.resources
+C:\Users\Zeno\Desktop\ENNN SOOOON\DENEME\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Zeno\Desktop\ENNN SOOOON\DENEME\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReservationForm.resources
+C:\Users\Zeno\Desktop\ENNN SOOOON\DENEME\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ReservationUser.resources
+C:\Users\Zeno\Desktop\ENNN SOOOON\DENEME\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SearchCityOrAirport.resources
+C:\Users\Zeno\Desktop\ENNN SOOOON\DENEME\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Staff.resources
+C:\Users\Zeno\Desktop\ENNN SOOOON\DENEME\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TicketList.resources
+C:\Users\Zeno\Desktop\ENNN SOOOON\DENEME\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Zeno\Desktop\ENNN SOOOON\DENEME\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Zeno\Desktop\ENNN SOOOON\DENEME\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Zeno\Desktop\ENNN SOOOON\DENEME\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Zeno\Desktop\ENNN SOOOON\DENEME\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\busra\OneDrive\Masaüstü\Booking Flight Ticket\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\busra\OneDrive\Masaüstü\Booking Flight Ticket\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\busra\OneDrive\Masaüstü\Booking Flight Ticket\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\busra\OneDrive\Masaüstü\Projects\Booking Flight Ticket\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\busra\OneDrive\Masaüstü\Projects\Booking Flight Ticket\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\busra\OneDrive\Masaüstü\Projects\Booking Flight Ticket\VP Proje son\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
